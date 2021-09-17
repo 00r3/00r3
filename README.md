@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @00r3
+- 👀 I’m interested in automation
+- 🌱 I’m currently learning Solidity 
